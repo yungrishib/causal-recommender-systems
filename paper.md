@@ -5,8 +5,6 @@
 **Email:** rishibmore141@gmail.com  
 **Year:** 2026
 
-# Feedback Loops and Exposure Bias in Popularity-Based Recommendation Systems
-
 ## 1. Introduction
 Recommendation systems shape user attention at scale. While popularity-based ranking is widely used due to its simplicity and effectiveness, it can unintentionally create feedback loops that amplify exposure inequality. This paper investigates how such dynamics emerge even in the absence of explicit preference bias.
 
@@ -38,4 +36,3 @@ user preferences, or testing fairness-aware ranking strategies.
 
 ## 9. Conclusion
 We demonstrate that feedback loops in recommendation systems can significantly amplify exposure bias. Future work should explore causal and fairness-aware ranking mechanisms to mitigate these effects.
-
