@@ -1,7 +1,7 @@
 # Feedback Loops and Exposure Bias in Popularity-Based Recommendation Systems
 
 **Author:** Rishib More  
-**Affiliation:** BCA Student, Ajeenkya DY Patil University  
+**Affiliation:** BCA 1st Year Student, Ajeenkya DY Patil University  
 **Email:** rishibmore141@gmail.com  
 **Year:** 2026
 
