@@ -21,7 +21,16 @@ Our results show that small initial popularity differences grow over time, resul
 ## 7. Discussion
 These findings suggest that popularity-based recommenders can introduce systemic bias without explicit discriminatory signals. Such effects raise concerns for fairness and diversity in real-world systems.
 
-## 8. Conclusion
+## 8. Limitations and Future Work
+This study uses a simplified simulation and does not model real user behavior or
+complex recommendation architectures. The goal was to isolate algorithmic
+feedback effects rather than achieve realism.
+
+Future work could include incorporating public datasets, modeling heterogeneous
+user preferences, or testing fairness-aware ranking strategies.
+
+
+## 9. Conclusion
 We demonstrate that feedback loops in recommendation systems can significantly amplify exposure bias. Future work should explore causal and fairness-aware ranking mechanisms to mitigate these effects.
 
 ## References
