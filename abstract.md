@@ -1,0 +1,5 @@
+Title:
+Feedback Loops and Exposure Bias in Popularity-Based Recommendation Systems
+
+Abstract:
+Modern recommendation systems often rely on popularity-based ranking, implicitly assuming that user engagement reflects item quality. In this work, we demonstrate that such systems can create self-reinforcing feedback loops that amplify exposure inequality over time. We simulate a simplified recommendation environment in which items are repeatedly ranked based on observed popularity, and user interactions further influence future rankings. Through controlled experiments, we show that initially small popularity differences can lead to persistent and increasing exposure bias across item groups. Our results highlight how algorithmic design choices, even in the absence of explicit user preference bias, can systematically disadvantage certain groups. This study emphasizes the need for causal and fairness-aware approaches in the design of large-scale recommender systems.
