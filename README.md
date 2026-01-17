@@ -1,3 +1,6 @@
+##Research Context
+This project was developed as an independent undergraduate research exercise to study feedback loops and exposure bias in recommender systems using simulation-based analysis. The goal is conceptual understanding rather than production deployment or empirical user modeling.
+
 # Feedback Loops and Exposure Bias in Recommendation Systems
 
 This project is a small research experiment I conducted to understand how
