@@ -8,7 +8,6 @@ recommendation algorithms can influence visibility and fairness over time.
 
 While studying recommendation systems, I became curious about a simple question:
 Can popularity-based ranking alone create inequality, even if users are neutral?
-
 To explore this, I built a simulation that models users interacting with ranked
 items over multiple rounds and observed how exposure changes over time.
 
